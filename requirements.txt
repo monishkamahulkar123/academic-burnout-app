@@ -1,0 +1,7 @@
+streamlit
+mysql-connector-python
+bcrypt
+plotly
+fpdf
+openpyxl
+pillow
